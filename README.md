@@ -1,4 +1,4 @@
-FND's ESLint configuration for JSX
+FND's ESLint configuration, JSX edition
 
 
 Getting Started

@@ -1,8 +1,8 @@
 {
 	"name": "eslint-config-fnd-jsx",
-	"description": "FND's ESLint configuration for JSX",
+	"description": "FND's ESLint configuration, JSX edition",
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"homepage": "https://github.com/FND/eslint-config-jsx",
 	"repository": {
 		"type": "git",

@@ -2,7 +2,7 @@
 	"name": "eslint-config-fnd-jsx",
 	"description": "FND's ESLint configuration, JSX edition",
 	"license": "MIT",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"homepage": "https://github.com/FND/eslint-config-jsx",
 	"repository": {
 		"type": "git",
@@ -16,10 +16,10 @@
 		"test": "eslint --cache --ignore-pattern '!.eslintrc.js' .eslintrc.js && echo ✓"
 	},
 	"dependencies": {
-		"eslint-config-fnd": "^1.1",
-		"eslint-plugin-react": "^7.1.0"
+		"eslint-config-fnd": "^1.2",
+		"eslint-plugin-react": "^7.3.0"
 	},
 	"devDependencies": {
-		"release-util-fnd": "^1.0.2"
+		"release-util-fnd": "^1.0.5"
 	}
 }

@@ -8,6 +8,7 @@ module.exports = {
 		"jsx-quotes": ["error", "prefer-double"],
 		"react/display-name": "off",
 		"react/jsx-key": "off",
-		"react/no-unknown-property": "off"
+		"react/no-unknown-property": "off",
+		"react/prop-types": "off"
 	}
 };

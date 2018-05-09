@@ -1,5 +1,7 @@
 FND's ESLint configuration, JSX edition
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/FND/eslint-config-jsx.svg)](https://greenkeeper.io)
+
 
 Getting Started
 ---------------

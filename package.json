@@ -20,6 +20,6 @@
 		"eslint-plugin-react": ">=7.14.3"
 	},
 	"devDependencies": {
-		"release-util-fnd": "^1.1.1"
+		"release-util-fnd": "^2.0.0"
 	}
 }
